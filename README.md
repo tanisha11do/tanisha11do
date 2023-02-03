@@ -12,9 +12,6 @@
  <a href="https://instagram.com/tanishaaarts?igshid=ZDdkNTZiNTM=">
   <img height="50" src="https://user-images.githubusercontent.com/114300837/216694908-0424f049-5ace-41d9-9701-96be80d4622c.png"/>
  </a>
- <a href="https://www.facebook.com/profile.php?id=100080012544129&mibextid=ZbWKwL">
-  <img height="50" src="https://user-images.githubusercontent.com/114300837/216695647-dda494bb-86a2-43d5-a4a2-3452f30918c4.png"/>
- </a>
  <a href="https://www.linkedin.com/in/tanisha-pattnaik-3b7038244/">
   <img height="50" src="https://user-images.githubusercontent.com/114300837/216697512-82c929ec-ec0f-452e-81b7-499bd1d61c83.png"/>
  </a>
