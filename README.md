@@ -49,7 +49,11 @@
 ---
 
 ### :fire: My Stats :
-![Github stats](https://github-readme-stats.vercel.app/api?username=tanisha11do)
+![Github stats](https://github-readme-stats.vercel.app/api?username=tanisha11do&theme=dark&show_icons=true)
 
+---
+
+### Top languages :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha11do&theme=dark&show_icons=true)](https://github.com/tanisha11do/github-readme-stats)
 
 
