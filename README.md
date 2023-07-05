@@ -43,6 +43,8 @@
 ### <h2>My Stats :</h2>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tanisha11do&theme=dark&show_icons=true)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanisha11do&theme=dark)](https://git.io/streak-stats)
+
 ---
 
 ### <h2>Top languages :</h2>
