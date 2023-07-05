@@ -1,12 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200"/>
 </div>
-<h1 align="center">
+<h2 align="center">
   Hello World!
-  <p>It's Tanisha<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></p>
-</h1>
-
----
+  <p>It's Tanisha<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/></p>
+</h2>
 
 <div align="center">
  <a href="https://instagram.com/tanishaaarts?igshid=ZDdkNTZiNTM=">
@@ -15,13 +13,7 @@
  <a href="https://www.linkedin.com/in/tanisha-pattnaik-3b7038244/">
   <img height="50" src="https://user-images.githubusercontent.com/114300837/216697512-82c929ec-ec0f-452e-81b7-499bd1d61c83.png"/>
  </a>
- 
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/3og0INdmjMr8BIiIlG/giphy.gif" width="400" />
-</div>
 
----
 
 <div  id="badges">
   <img src="https://komarev.com/ghpvc/?username=tanisha11do&style=flat-square&color=blue" alt=""/>
